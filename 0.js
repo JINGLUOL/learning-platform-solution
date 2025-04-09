@@ -17,6 +17,7 @@
 // @updateURL    https://gitee.com/AaLocation/learning-platform-solution/raw/script/splicingFile.js
 // @updateURL    https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/splicingFile.js
 // @downloadURL  https://gitee.com/AaLocation/learning-platform-solution/raw/script/splicingFile.js
+// @downloadURL  https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/splicingFile.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
