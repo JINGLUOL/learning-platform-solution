@@ -14,8 +14,8 @@
 // @antifeature  referral-link
 // @run-at       document-end
 // @noframes
-// @updateURL    https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/combinationFile.js
-// @downloadURL  https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/combinationFile.js
+// @updateURL    https://gitee.com/AaLocation/learning-platform-solution/raw/script/splicingFile.js
+// @downloadURL  https://gitee.com/AaLocation/learning-platform-solution/raw/script/splicingFile.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
