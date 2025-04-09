@@ -14,8 +14,8 @@
 // @antifeature  referral-link
 // @run-at       document-end
 // @noframes
-// @updateURL    https://github.com/JINGLUOL/learning-platform-solution/blob/script/header.js
-// @downloadURL  https://github.com/JINGLUOL/learning-platform-solution/blob/script/body.js
+// @updateURL    https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/header.js
+// @downloadURL  https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/body.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
