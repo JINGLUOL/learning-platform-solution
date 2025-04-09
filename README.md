@@ -1,2 +1,2 @@
-# learning-platform-solution
-学习平台解决方案...
+# convenient project
+并没有什么用的项目（ = _ = ）
