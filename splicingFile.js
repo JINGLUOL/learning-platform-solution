@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         学习平台终结者
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1.2025.4.10
+// @version      1.0.1.2025.04.10
 // @description  只为解决学习问题
 // @author       lcl
 // @match        https://*.ouchn.cn/*
@@ -17,6 +17,7 @@
 // @updateURL    https://gitee.com/AaLocation/learning-platform-solution/raw/script/splicingFile.js
 // @updateURL    https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/splicingFile.js
 // @downloadURL  https://gitee.com/AaLocation/learning-platform-solution/raw/script/splicingFile.js
+// @downloadURL  https://raw.githubusercontent.com/JINGLUOL/learning-platform-solution/refs/heads/script/splicingFile.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
