@@ -1,2 +1,2 @@
 # learning-platform-solution
-学习平台解决方案...
+学习平台项目
