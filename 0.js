@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         学习平台终结者
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1.2025.04.15.17
+// @version      1.0.1.2025.04.15.17.10
 // @description  只为解决学习问题
 // @author       lcl
 // @match        https://*.ouchn.cn/*
 // @match        https://*.jxjypt.cn/*
 // @match        https://*.jijiaox.com/*
 // @match        https://*.mxdxedu.com/*
+// @connect      www.u609137.nyat.app
 // @connect      192.168.0.120
 // @connect      localhost
 // @antifeature  payment
