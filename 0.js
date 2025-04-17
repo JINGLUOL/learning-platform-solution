@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         学习平台终结者
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1.2025.04.15.17.28
+// @version      1.0.1.2025.04.17.14.49
 // @description  只为解决学习问题
 // @author       lcl
 // @match        https://*.ouchn.cn/*
