@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         学习平台终结者
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1.2025.04.17.14.49
+// @version      1.0.1.2025.06.05.11.41
 // @description  只为解决学习问题
 // @author       lcl
 // @match        https://*.ouchn.cn/*
@@ -9,6 +9,7 @@
 // @match        https://*.jijiaox.com/*
 // @match        https://*.mxdxedu.com/*
 // @connect      www.u609137.nyat.app
+// @connect      8.155.23.3:8888
 // @connect      192.168.0.120
 // @connect      localhost
 // @antifeature  payment
